@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bicycle" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACEAAIAAAAAAAAAAAAAAAABgAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Bicycle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bus" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAEAAIAAAAAAAAAgAAAAIAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Bus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car" Collapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAIQAEAAAAAAAQAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Car.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Garage" Collapsed="true">
+    <Position X="12" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMEAAiACABAAAGAAAbACAgIgAUAAkCAGgAIlAAAAwM=</HashCode>
+      <FileName>Garage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Motorcycle" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAIAABAAAgAAAAAAAAEAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Motorcycle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Truck" Collapsed="true">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAEAAMAAAQAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Truck.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle" Collapsed="true">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAFgAJAAAAACIABAAAAABABAAAAAAAQABYAAAAA=</HashCode>
+      <FileName>Vehicle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

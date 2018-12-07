@@ -1,2 +1,1 @@
-# Garage
-School projekt
+# Fordons-Garage-polymorfism
